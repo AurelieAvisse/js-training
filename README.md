@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/AurelieAvisse/js-training.svg?branch=master)](https://travis-ci.org/AurelieAvisse/js-training)
+
 
 [![Build Status](https://travis-ci.org/AurelieAvisse/js-training.svg?branch=master)](https://travis-ci.org/Aurelie.Avisse/js-training)
 
