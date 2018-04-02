@@ -11,7 +11,10 @@
  */
 
 // Your code :
-
+function sign(a) {
+    return Math.sign(a);
+};
+return Math.sign.toString()
 //* Begin of tests
 const assert = require('assert')
 

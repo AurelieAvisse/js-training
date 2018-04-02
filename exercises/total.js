@@ -5,8 +5,9 @@
  * and return it's total
  *
  */
-
-
+function total([a,...b]){
+    return b.length ? a + total(b) : a;
+  }
 //* Begin of tests
 const assert = require('assert')
 

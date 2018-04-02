@@ -1,8 +1,4 @@
-
-
-
-[![Build Status](https://travis-ci.org/AurelieAvisse/js-training.svg?branch=master)](https://travis-ci.org/Aurelie.Avisse/js-training)
-
+[![Build Status](https://travis-ci.org/AurelieAvisse/js-training.svg?branch=master)](https://travis-ci.org/AurelieAvisse/js-training)
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
 ### globals dependencies

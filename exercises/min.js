@@ -10,7 +10,10 @@
  */
 
 // Your code :
-
+function min(a, b) {
+    return Math.min(a, b);
+};
+return Math.min.toString()
 //* Begin of tests
 const assert = require('assert')
 

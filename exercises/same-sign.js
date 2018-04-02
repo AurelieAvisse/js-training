@@ -8,7 +8,14 @@
  */
 
 // Your code :
-
+function sameSign(a, b) {
+    if ((a > 0 && b > 0) || (a < 0 && b < 0) || (a === 0 && b === 0)) {
+        return true;
+    } else {
+        return false;
+    }
+    return Math.sameSign(a, b);
+};
 //* Begin of tests
 const assert = require('assert')
 
