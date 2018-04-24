@@ -7,7 +7,10 @@
  * @notions Data-Structures, Get
  */
 
-// Your code :
+// Yourfunction getFirst(str) {
+    function getLast(str) {
+        return str.slice(-1)[0];
+      }
 
 //* Begin of tests
 const assert = require('assert')
